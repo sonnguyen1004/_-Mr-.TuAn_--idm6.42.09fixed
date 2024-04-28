@@ -1,0 +1,15 @@
+Windows Registry Editor Version 5.00 
+  
+[HKEY_CURRENT_USER\Software\DownloadManager]
+"idmvers"="v6.42b9 Full"
+"FName"="Internet"
+"LName"="Download Manager"
+"Email"="info@tonec.com"
+"Serial"="NNREW-6RBEX-KBWZO-8NDYF"
+"nLst"=dword:00000001
+"LaunchOnStart"=dword:00000001
+"radxcnt"=dword:00000001
+"TipStartUp"=dword:00000001
+"TipFilePos"=dword:000000b4
+[HKEY_CURRENT_USER\Software\DownloadManager\ConfigTime]
+@=dword:6614d67e
